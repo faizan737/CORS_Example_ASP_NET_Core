@@ -1,0 +1,6 @@
+@CORS_Example_ASP_NET_Core_HostAddress = http://localhost:5074
+
+GET {{CORS_Example_ASP_NET_Core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
