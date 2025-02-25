@@ -7,5 +7,7 @@ I have Used <U>Microsot.EntityFrameworkCore.InMemory</U> package for temporary i
 ALso Used DTO for Database Transfer Object.<br>
 </p>
 <div>
-  <h3>CORS Enable using Attributes</h3>
+  <h3>CORS Enabling</h3>
+  <b>https://learn.microsoft.com/en-us/aspnet/core/security/cors?view=aspnetcore-9.0</b>
+  <p>follow the above link to implement CORS an use one of three methos to enable CORS</p>
 </div>
